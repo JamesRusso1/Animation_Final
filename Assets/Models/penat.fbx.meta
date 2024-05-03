@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: fc23ec341ea61c1489644eceeeb65d48
+guid: 80a87960932ccdf4f8f18eef5f59dc15
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: emit shit
+    second: {fileID: 2800000, guid: 693fddc2dd1ea064581ef37784aefbb6, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
