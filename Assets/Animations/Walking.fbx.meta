@@ -1,34 +1,9 @@
 fileFormatVersion: 2
-guid: d6d3a1f190f6f1c4cabf3efc2ce7458a
+guid: 1489b4720ebec3643a31e30d5beb4bfa
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch23_1001_Diffuse
-    second: {fileID: 2800000, guid: e309943fe8f99184399c58ecefa79e41, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch23_1001_Glossiness
-    second: {fileID: 2800000, guid: 36c4b077001947a4299d3e1c42e5f6ad, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch23_1001_Normal
-    second: {fileID: 2800000, guid: 04a7e53ba645b73438394770fe27e294, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch23_1001_Specular
-    second: {fileID: 2800000, guid: 89c6eaff2046d194abd669c2c7555c42, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch23_1002_Diffuse
-    second: {fileID: 2800000, guid: 7bc90da722c21d94cb5e966786833ab6, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -120,11 +95,12 @@ ModelImporter:
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d6d3a1f190f6f1c4cabf3efc2ce7458a,
+    type: 3}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 2
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
